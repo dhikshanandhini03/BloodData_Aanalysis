@@ -9,4 +9,5 @@
 <img src="./images/BloodAnalysis (1)_page-0001.jpg" alt="sample1">
   
 # INFERENCE #2
+ <p>Of those 500 samples 129 students are blood donors and 370 are non donars due to their unwillingness and health issues
 <img src = "./images/BloodAnalysis (1)_page-0002.jpg" alt="sample2">
