@@ -9,4 +9,4 @@
 <img src="./images/BloodAnalysis (1)_page-0001.jpg" alt="sample1">
   
 # INFERENCE #2
-<img src = ".images/BloodAnalysis (1)_page-0002.jpg" alt="sample2">
+<img src = "./images/BloodAnalysis (1)_page-0002.jpg" alt="sample2">
